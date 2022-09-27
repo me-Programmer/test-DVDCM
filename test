@@ -1,0 +1,27 @@
+OP Helmet code:
+/give @p minecraft:netherite_helmet{display:{Name:"{\"text\":\"OP HELMET\",\"italic\":false}"},Unbreakable:10,Enchantments:[{id:protection,lvl:10},{id:thorns,lvl:10},{id:mending,lvl:10},{id:unbreaking,lvl:10}]}
+
+OP Chestplate code:
+/give @p minecraft:netherite_chestplate{display:{Name:"{\"text\":\"OP CHESTPLATE\",\"italic\":false}"},Unbreakable:10,Enchantments:[{id:protection,lvl:10},{id:thorns,lvl:10},{id:mending,lvl:10},{id:unbreaking,lvl:10}]}
+
+OP Leggings code:
+/give @p minecraft:netherite_leggings{display:{Name:"{\"text\":\"OP LEGGINGS\",\"italic\":false}"},Unbreakable:10,Enchantments:[{id:protection,lvl:10},{id:thorns,lvl:10},{id:mending,lvl:10},{id:unbreaking,lvl:10}]}
+
+OP Boots code:
+/give @p minecraft:netherite_boots{display:{Name:"{\"text\":\"OP BOOTS\",\"italic\":false}"},Unbreakable:10,Enchantments:[{id:protection,lvl:10},{id:thorns,lvl:10},{id:mending,lvl:10},{id:unbreaking,lvl:10}]}
+
+OP Sword code:
+/give @p minecraft:netherite_sword{display:{Name:"{\"text\":\"OP SWORD\",\"italic\":false}"},Unbreakable:10,Enchantments:[{id:sharpness,lvl:10},{id:fire_aspect,lvl:10},{id:mending,lvl:10},{id:unbreaking,lvl:10},{id:looting,lvl:10},{id:knockback,lvl:10}]}
+
+OP Shovel code:
+/give @p minecraft:netherite_shovel{display:{Name:"{\"text\":\"OP SHOVEL\",\"italic\":false}"},Unbreakable:10,Enchantments:[{id:unbreaking,lvl:10},{id:mending,lvl:10},{id:efficiency,lvl:10},{id:fortune,lvl:10}]}
+
+OP Pickaxe (Fortune) code:
+/give @p minecraft:netherite_pickaxe{display:{Name:"{\"text\":\"OP FORTUNE PICKAXE\",\"italic\":false}"},Unbreakable:10,Enchantments:[{id:unbreaking,lvl:10},{id:mending,lvl:10},{id:efficiency,lvl:10},{id:fortune,lvl:10}]}
+
+OP Pickaxe (Silk touch) code:
+/give @p minecraft:netherite_pickaxe{display:{Name:"{\"text\":\"OP SILK PICK\",\"italic\":false}"},Unbreakable:10,Enchantments:[{id:unbreaking,lvl:10},{id:mending,lvl:10},{id:efficiency,lvl:10},{id:silk_touch,lvl:10}]}
+
+OP Axe code:
+/give @p minecraft:netherite_axe{display:{Name:"{\"text\":\"OP AXE\",\"italic\":false}"},Unbreakable:10,Enchantments:[{id:unbreaking,lvl:10},{id:mending,lvl:10},{id:efficiency,lvl:10},{id:fortune,lvl:10}]}
+/give @p minecraft:bow{Unbreakable:1,Enchantments:[{id:punch,lvl:10},{id:power,lvl:10},{id:infinity,lvl:10},{id:flame,lvl:10},{id:looting,lvl:10}]}
